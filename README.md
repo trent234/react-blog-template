@@ -10,12 +10,5 @@ This is the project for my personal website soon to be found [right here](https:
 
 ### Personalization
 * Edit the file `src/Data.js` in order to customize the content of your site.
-<<<<<<< Updated upstream
-
-### New Blog Post
-* Insert your `{post-name-here}.md` file inside the `posts` folder.
-=======
 * Insert your `{post-name-here}.md` file inside the `posts` folder to add a blog post.
->>>>>>> Stashed changes
 * Edit the file `src/Posts.js` adding the necessary information, including your markdown file location, to generate your post. The `route` and page will be generated based on what's inside `Posts.js`.
-
