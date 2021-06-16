@@ -6,7 +6,7 @@ This is the project for my personal website soon to be found [right here](https:
 * The only dependency is docker.
 * Run `./deploy.sh` to start the website.
 * Open [http://localhost:3333](http://localhost:3333) to view it in the browser.
-* Of course more plumbing is needed to expose the site to the outside world at a pretty URL.
+* The plumbing needed to expose the site to the outside world at a pretty URL is outside the scope of this repo.
 
 ### Personalization
 * Edit the file `src/Data.js` in order to customize the content of your site.
